@@ -1,6 +1,6 @@
 
-hello lsn!2222
 insert by master hello lsn!3333
+insert by hot-fix2hello lsn!2222
 hello lsn!
 hello lsn!
 hello lsn!
