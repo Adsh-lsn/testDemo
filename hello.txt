@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-
+加油啊
 insert by master hello lsn!3333
 insert by hot-fix2hello lsn!2222
 hello lsn!
@@ -22,7 +21,6 @@ hello lsn!hot-fix test
 222222222222222222222by lhc
 333333333333333
 444444444更改
-=======
 我是一个测试文档22
 我是一个测试文档333
 我是一个测试文档
@@ -33,4 +31,3 @@ allalsdfdsfjsldjflsdjf
 tijiaoceshi
 下载
 提交
->>>>>>> 39f43860e01d12c0a848b24506b26dda222ce2f4
